@@ -14,5 +14,11 @@ Bu proje, **HTML** ve **CSS** kullanılarak oluşturulmuş bir "Yunanistan Tatil
   Travel projemin bir önizlemesi yukarıdaki gifte yer almaktadır.
 
   
+![TRAVEL-Gif](https://github.com/user-attachments/assets/967c2225-494d-4280-97b5-3c2cadb3a4e9)
+
+Saygılarımla..
+
+
+  
 
 
